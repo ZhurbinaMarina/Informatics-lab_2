@@ -39,6 +39,7 @@ answer=${answer::-1}
 echo $answer
 ```
 10. Сохраним файл и запустим его через терминал:
+
 ![image](https://github.com/user-attachments/assets/3ddc75a1-762e-44fc-8399-05264ccaeb42)
 
 ### Код:
